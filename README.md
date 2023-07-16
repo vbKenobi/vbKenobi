@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Venkat Bollapragada, a second year computer science major at UCLA
+- 👋 Hi, I’m Venkat Bollapragada, a third year computer science major at UCLA
 - 👀 I’m interested in Artificial Intelligence, Machine learning, and Math!
 - 🌱 Part of ACM AI, teaching ML and AI concepts to other undergrads, UPE (CS Honors Society)
 - 💞️ I’m looking to collaborate on Machine learning and Artificial intelligecne projects, and also learn more about software engineering as a whole. 
